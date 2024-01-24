@@ -1,0 +1,42 @@
+﻿  TestGLUT.cpp
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(182,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(182,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(182,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(183,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(183,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(183,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(183,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(185,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(186,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(187,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(192,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(192,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(192,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(193,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(193,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(193,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(194,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(194,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(194,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(195,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(195,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(195,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(196,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(196,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(196,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(197,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(197,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(197,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(203,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(203,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(203,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(204,87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(204,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(204,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(259,24): warning C4244: 'argument': conversion from 'double' to 'GLbyte', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(259,19): warning C4244: 'argument': conversion from 'double' to 'GLbyte', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(259,14): warning C4244: 'argument': conversion from 'double' to 'GLbyte', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(262,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\telav\source\repos\TestGLUT\TestGLUT\TestGLUT.cpp(262,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  TestGLUT.vcxproj -> C:\Users\telav\source\repos\TestGLUT\Debug\TestGLUT.exe
